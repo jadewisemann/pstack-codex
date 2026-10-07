@@ -1,0 +1,4 @@
+interface:
+  display_name: "pstack for Codex"
+  short_description: "원본 pstack 원칙에 따른 조사·설계·구현·독립 검증 흐름"
+  default_prompt: "$pstack-codex로 이 작업을 조사하고 설계한 뒤 구현과 실제 동작 검증까지 진행해줘."
